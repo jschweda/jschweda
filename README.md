@@ -1,18 +1,14 @@
 ### Hi there 👋
-<div hidden>
 
-```
 @startuml firstDiagram
 
 Alice -> Bob: Hello
 Bob -> Alice: Hi!
 		
 @enduml
-```
 
-</div>
 
-![](firstDiagram.svg)
+
 <!--
 **jschweda/jschweda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

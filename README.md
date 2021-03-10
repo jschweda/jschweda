@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-@startuml firstDiagram
-
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
-		
-@enduml
-
-
 
 <!--
 **jschweda/jschweda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
